@@ -28,5 +28,5 @@ jobs:
 
       - name: Remove Commits
         run: |
-          git reset e2b2295e5e3aea125c523da77aaba0fdf61510fd
+          git reset --hard e2b2295e5e3aea125c523da77aaba0fdf61510fd
 
